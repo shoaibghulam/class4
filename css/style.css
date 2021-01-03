@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Redressed&display=swap');
+
+body{
+    /*background-color: rgb(77, 6, 134);*/
+    background:linear-gradient(rgba(51, 51, 51, 0.555),rgba(202, 23, 172, 0.602)),url('../images/back.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color:#fff;
+  
+
+}
+h1{
+    font-family: 'Redressed', cursive;
+    font-size:60px;
+    text-align: center;
+    /* border-width: 3px;
+    border-style: solid;
+    border-color:rgb(131, 9, 9); */
+    /* border:3px solid rgb(7, 6, 6); */
+    border-bottom: 3px dashed red;
+    width:300px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size:18px;
+}
